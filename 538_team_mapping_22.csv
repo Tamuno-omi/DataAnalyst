@@ -1,0 +1,911 @@
+,team,team_name_predictions,league,league_id
+0,Liverpool Women,Liverpool,FA Women's Super League,7921
+733,Arsenal Women,Arsenal,FA Women's Super League,7921
+1466,Chelsea FC Women,Chelsea,FA Women's Super League,7921
+2199,Reading,Reading,FA Women's Super League,7921
+2932,Notts County Ladies,Notts,FA Women's Super League,7921
+3665,Bastia,Bastia,French Ligue 2,1844
+5945,AS Monaco,Monaco,French Ligue 1,1843
+8605,Hull City,Hull City,English League Championship,2412
+11942,Middlesbrough,Middlesbrough,English League Championship,2412
+15279,Burnley,Burnley,Barclays Premier League,2411
+17939,Southampton,Southampton,Barclays Premier League,2411
+20599,Everton,Everton,Barclays Premier League,2411
+23259,Crystal Palace,Crystal Palace,Barclays Premier League,2411
+25919,Bordeaux,Bordeaux,French Ligue 2,1844
+28199,Manchester City,Man. City,Barclays Premier League,2411
+30859,Dijon FCO,Dijon FCO,French Ligue 2,1844
+33139,Montpellier,Montpellier,French Ligue 1,1843
+35799,Metz,Metz,French Ligue 2,1844
+38079,Caen,Caen,French Ligue 2,1844
+40359,AFC Bournemouth,Bournemouth,Barclays Premier League,2411
+43019,AS Nancy Lorraine,,French Ligue 1,1843
+45679,Nice,Nice,French Ligue 1,1843
+48339,Arsenal,Arsenal,Barclays Premier League,2411
+50999,Marseille,Marseille,French Ligue 1,1843
+53659,Chelsea,Chelsea,Barclays Premier League,2411
+56319,MÃ¡laga,Málaga,Spanish Segunda Division,1871
+59120,Lyon,Lyon,French Ligue 1,1843
+61780,Manchester United,Man. United,Barclays Premier League,2411
+64440,Deportivo La CoruÃ±a,,Spanish Primera Division,1869
+67100,Stoke City,Stoke City,English League Championship,2412
+70437,Swansea City,Swansea City,English League Championship,2412
+73774,West Bromwich Albion,West Brom,Barclays Premier League,2411
+76434,Tottenham Hotspur,Tottenham,Barclays Premier League,2411
+79094,Watford,Watford,English League Championship,2412
+82431,Nantes,Nantes,French Ligue 1,1843
+85091,AS Roma,Roma,Italy Serie A,1854
+87751,Barcelona,Barcelona,Spanish Primera Division,1869
+90411,Leicester City,Leicester,Barclays Premier League,2411
+93071,Lorient,Lorient,French Ligue 1,1843
+95731,Toulouse,Toulouse,French Ligue 1,1843
+98391,Angers,Angers,French Ligue 1,1843
+101051,Lille,Lille,French Ligue 1,1843
+103711,Stade Rennes,Rennes,French Ligue 1,1843
+106371,Granada,Granada,Spanish Segunda Division,1871
+109172,Juventus,Juventus,Italy Serie A,1854
+111832,Sevilla FC,Sevilla,Spanish Primera Division,1869
+114492,Sunderland,Sunderland,English League Championship,2412
+117829,Guingamp,Guingamp,French Ligue 2,1844
+120109,St Etienne,St Etienne,French Ligue 2,1844
+122389,West Ham United,West Ham,Barclays Premier League,2411
+125049,AC Milan,AC Milan,Italy Serie A,1854
+127709,Sporting GijÃ³n,Sporting Gijón,Spanish Segunda Division,1871
+130510,Real Sociedad,,Spanish Primera Division,1869
+133170,Palermo,Palermo,Italy Serie B,1856
+135542,US Pescara,,Italy Serie A,1854
+138202,Bologna,Bologna,Italy Serie A,1854
+140862,Chievo Verona,,Italy Serie A,1854
+143522,Atalanta,Atalanta,Italy Serie A,1854
+146182,Genoa,Genoa,Italy Serie B,1856
+148554,Paris Saint-Germain,PSG,French Ligue 1,1843
+151214,Empoli,Empoli,Italy Serie A,1854
+153874,Atletico Madrid,Atletico Madrid,Spanish Primera Division,1869
+156534,Celta Vigo,Celta Vigo,Spanish Primera Division,1869
+159194,Valencia,Valencia,Spanish Primera Division,1869
+161854,Bayern Munich,Bayern Munich,German Bundesliga,1845
+163996,Real Betis,Real Betis,Spanish Primera Division,1869
+166656,Espanyol,Espanyol,Spanish Primera Division,1869
+169316,Borussia Dortmund,Dortmund,German Bundesliga,1845
+171458,FC Cologne,1. FC Köln,German Bundesliga,1845
+173600,FC Augsburg,FC Augsburg,German Bundesliga,1845
+175742,Eintracht Frankfurt,Eintracht,German Bundesliga,1845
+177884,Hamburg SV,Hamburg SV,German 2. Bundesliga,1846
+179720,Lazio,Lazio,Italy Serie A,1854
+182380,Eibar,Eibar,Spanish Segunda Division,1871
+185181,Osasuna,Osasuna,Spanish Primera Division,1869
+187841,Borussia Monchengladbach,Gladbach,German Bundesliga,1845
+189983,Real Madrid,Real Madrid,Spanish Primera Division,1869
+192643,Napoli,Napoli,Italy Serie A,1854
+195303,Leganes,Leganés,Spanish Segunda Division,1871
+198104,Manchester City Women,Man. City,FA Women's Super League,7921
+198837,Birmingham City,Birmingham,FA Women's Super League,7921
+199570,Hertha Berlin,Hertha BSC,German Bundesliga,1845
+201712,TSG Hoffenheim,Hoffenheim,German Bundesliga,1845
+203854,Internazionale,Inter Milan,Italy Serie A,1854
+206514,AlavÃ©s,Alavés,Spanish Segunda Division,1871
+209315,Las Palmas,Las Palmas,Spanish Segunda Division,1871
+212116,Athletic Bilbao,Athletic Bilbao,Spanish Primera Division,1869
+214776,Udinese,Udinese,Italy Serie A,1854
+217436,Cagliari,Cagliari,Italy Serie B,1856
+219808,Torino,Torino,Italy Serie A,1854
+222468,Sassuolo,Sassuolo,Italy Serie A,1854
+225128,Crotone,Crotone,Italy Serie A,1854
+227788,Sampdoria,Sampdoria,Italy Serie A,1854
+230448,Fiorentina,Fiorentina,Italy Serie A,1854
+233108,Villarreal,Villarreal,Spanish Primera Division,1869
+235768,Schalke 04,Schalke 04,German Bundesliga,1845
+237910,SC Freiburg,SC Freiburg,German Bundesliga,1845
+240052,VfL Wolfsburg,Wolfsburg,German Bundesliga,1845
+242194,SV Darmstadt 98,Darmstadt 98,German 2. Bundesliga,1846
+244030,Bayer Leverkusen,Leverkusen,German Bundesliga,1845
+246172,FC Ingolstadt 04,,German Bundesliga,1845
+248314,RB Leipzig,RB Leipzig,German Bundesliga,1845
+250456,Liverpool,Liverpool,Barclays Premier League,2411
+253116,Werder Bremen,Werder Bremen,German Bundesliga,1845
+255258,Mainz,Mainz,German Bundesliga,1845
+257400,PSV,PSV,UEFA Champions League,1818
+258256,Dynamo Kiev,,UEFA Champions League,1818
+259112,Benfica,Benfica,UEFA Champions League,1818
+259968,Basel,Basel,UEFA Champions League,1818
+260824,FC Porto,FC Porto,UEFA Champions League,1818
+261680,Legia Warsaw,,UEFA Champions League,1818
+262536,Club Brugge,Club Brugge,UEFA Champions League,1818
+263392,CSKA Moscow,CSKA Moscow,UEFA Champions League,1818
+264248,FC Copenhagen,,UEFA Champions League,1818
+265104,Sporting CP,,UEFA Champions League,1818
+265960,Dinamo Zagreb,,UEFA Champions League,1818
+266816,Celtic,,UEFA Champions League,1818
+267672,Rostov,,UEFA Champions League,1818
+268528,Ludogorets,,UEFA Champions League,1818
+269384,Besiktas,,UEFA Champions League,1818
+270240,Veracruz,,Mexican Primera Division Torneo Clausura,1975
+271389,Cruz Azul,Cruz Azul,Mexican Primera Division Torneo Clausura,1975
+272538,Tigres UANL,Tigres UANL,Mexican Primera Division Torneo Clausura,1975
+273687,Morelia,,Mexican Primera Division Torneo Clausura,1975
+274836,LeÃ³n,León,Mexican Primera Division Torneo Clausura,1975
+275985,Guadalajara,Guadalajara,Mexican Primera Division Torneo Clausura,1975
+277134,Toluca,Toluca,Mexican Primera Division Torneo Clausura,1975
+278283,Puebla,Puebla,Mexican Primera Division Torneo Clausura,1975
+279432,Tijuana,Tijuana,Mexican Primera Division Torneo Clausura,1975
+280581,QuerÃ©taro,Querétaro,Mexican Primera Division Torneo Clausura,1975
+281730,Monterrey,Monterrey,Mexican Primera Division Torneo Clausura,1975
+282879,Atlas,Atlas,Mexican Primera Division Torneo Clausura,1975
+284028,Pachuca,Pachuca,Mexican Primera Division Torneo Clausura,1975
+285177,Necaxa,Necaxa,Mexican Primera Division Torneo Clausura,1975
+286326,Pumas Unam,Pumas UNAM,Mexican Primera Division Torneo Clausura,1975
+287475,Santos Laguna,Santos Laguna,Mexican Primera Division Torneo Clausura,1975
+288624,Club AmÃ©rica,Club América,Mexican Primera Division Torneo Clausura,1975
+289773,Chiapas FC,,Mexican Primera Division Torneo Clausura,1975
+290922,Portland Timbers,Portland,Major League Soccer,1951
+293427,Columbus Crew,Columbus,Major League Soccer,1951
+295932,Los Angeles Galaxy,LA Galaxy,Major League Soccer,1951
+298437,Real Salt Lake,Real Salt Lake,Major League Soccer,1951
+300942,Colorado Rapids,Colorado,Major League Soccer,1951
+303447,DC United,D.C. United,Major League Soccer,1951
+305952,Houston Dynamo,Houston,Major League Soccer,1951
+308457,San Jose Earthquakes,San Jose,Major League Soccer,1951
+310962,Orlando City SC,Orlando City,Major League Soccer,1951
+313467,Atlanta United FC,Atlanta,Major League Soccer,1951
+315972,Vancouver Whitecaps,Vancouver,Major League Soccer,1951
+318477,Chicago Fire,Chicago,Major League Soccer,1951
+320982,New York Red Bulls,NY Red Bulls,Major League Soccer,1951
+323487,Philadelphia Union,Philadelphia,Major League Soccer,1951
+325992,Montreal Impact,Montréal,Major League Soccer,1951
+328497,Sporting Kansas City,Sporting KC,Major League Soccer,1951
+331002,New York City FC,NYCFC,Major League Soccer,1951
+333507,Minnesota United FC,Minnesota,Major League Soccer,1951
+336012,FC Dallas,FC Dallas,Major League Soccer,1951
+338517,Seattle Sounders FC,Seattle,Major League Soccer,1951
+341022,New England Revolution,New England,Major League Soccer,1951
+343527,Toronto FC,Toronto FC,Major League Soccer,1951
+346032,IFK Goteborg,Göteborg,Swedish Allsvenskan,1874
+347472,Halmstads BK,,Swedish Allsvenskan,1874
+348912,Kristiansund BK,Kristiansund,Norwegian Tippeligaen,1859
+350352,AIK,AIK,Swedish Allsvenskan,1874
+351792,GIF Sundsvall,Sundsvall,Swedish Allsvenskan,1874
+353232,Lillestrom,Lillestrøm,Norwegian Tippeligaen,1859
+354672,IFK Norrkoping,Norrköping,Swedish Allsvenskan,1874
+356112,Tromso,Tromsø,Norwegian Tippeligaen,1859
+357552,Stabaek,,Norwegian Tippeligaen,1859
+358992,Stromsgodset,Strømsgodset,Norwegian Tippeligaen,1859
+360432,Sarpsborg,Sarpsborg,Norwegian Tippeligaen,1859
+361872,Rosenborg,Rosenborg,Norwegian Tippeligaen,1859
+363312,Orebro SK,,Swedish Allsvenskan,1874
+364752,Valerenga,Vålerenga,Norwegian Tippeligaen,1859
+366192,Djurgardens IF,Djurgardens,Swedish Allsvenskan,1874
+367632,Kalmar FF,Kalmar,Swedish Allsvenskan,1874
+369072,Odd BK,Odd,Norwegian Tippeligaen,1859
+370512,Aalesund,Aalesund,Norwegian Tippeligaen,1859
+371952,Sandefjord,Sandefjord,Norwegian Tippeligaen,1859
+373392,Sogndal,,Norwegian Tippeligaen,1859
+374832,Molde,Molde,Norwegian Tippeligaen,1859
+376272,Haugesund,Haugesund,Norwegian Tippeligaen,1859
+377712,Viking FK,Viking,Norwegian Tippeligaen,1859
+379152,SK Brann,,Norwegian Tippeligaen,1859
+380592,Vasby United,,Swedish Allsvenskan,1874
+382032,Hammarby,Hammarby,Swedish Allsvenskan,1874
+383472,Ã–stersunds FK,,Swedish Allsvenskan,1874
+384912,Jonkopings Sodra IF,,Swedish Allsvenskan,1874
+386352,BK Hacken,Häcken,Swedish Allsvenskan,1874
+387792,IK Sirius,Sirius,Swedish Allsvenskan,1874
+389232,IF Elfsborg,Elfsborg,Swedish Allsvenskan,1874
+390672,Malmo FF,Malmö,Swedish Allsvenskan,1874
+392112,Houston Dash,Houston,National Women's Soccer League,4582
+392824,Washington Spirit,Washington,National Women's Soccer League,4582
+393536,Portland Thorns,Portland,National Women's Soccer League,4582
+394248,Seattle Reign FC,Reign,National Women's Soccer League,4582
+394960,FC Kansas City,Kansas City,National Women's Soccer League,4582
+395672,Orlando Pride,Orlando,National Women's Soccer League,4582
+396384,Chicago Red Stars,Chicago,National Women's Soccer League,4582
+397096,North Carolina FC,North Carolina,National Women's Soccer League,4582
+397808,Sky Blue FC,NJ/NY Gotham,National Women's Soccer League,4582
+398520,Flamengo,Flamengo,Brasileiro SÃ©rie A,
+398521,Corinthians,Corinthians,Brasileiro SÃ©rie A,
+398522,Fluminense,Fluminense,Brasileiro SÃ©rie A,
+398523,Ponte Preta,,Brasileiro SÃ©rie A,
+398524,AvaÃ­,Avaí,Brasileiro SÃ©rie A,
+398525,BahÃ­a,,Brasileiro SÃ©rie A,
+398526,Cruzeiro,,Brasileiro SÃ©rie A,
+398527,Palmeiras,Palmeiras,Brasileiro SÃ©rie A,
+398528,GrÃªmio,,Brasileiro SÃ©rie A,
+398529,Coritiba,Coritiba,Brasileiro SÃ©rie A,
+398530,Santos,Santos,Brasileiro SÃ©rie A,
+398531,AtlÃ©tico Goianiense,,Brasileiro SÃ©rie A,
+398532,Chapecoense AF,,Brasileiro SÃ©rie A,
+398533,Vasco da Gama,,Brasileiro SÃ©rie A,
+398534,AtlÃ©tico Paranaense,Atlético-PR,Brasileiro SÃ©rie A,
+398535,Atletico Mineiro,Atlético Mineiro,Brasileiro SÃ©rie A,
+398536,VÃ­toria,,Brasileiro SÃ©rie A,
+398537,Botafogo,Botafogo,Brasileiro SÃ©rie A,
+398538,Sport Recife,,Brasileiro SÃ©rie A,
+398539,SÃ£o Paulo,São Paulo,Brasileiro SÃ©rie A,
+398540,Ural Sverdlovsk Oblast,Ural,Russian Premier Liga,1866
+399975,FC Tosno,,Russian Premier Liga,1866
+401410,Anzhi Makhachkala,,Russian Premier Liga,1866
+402845,Energiya Khabarovsk,,Russian Premier Liga,1866
+404280,Rubin Kazan,,Russian Premier Liga,1866
+405715,Terek Grozny,,Russian Premier Liga,1866
+407150,Dinamo Moscow,Dinamo Moscow,Russian Premier Liga,1866
+408585,Lokomotiv Moscow,Lokomotiv,Russian Premier Liga,1866
+410020,Rapid Vienna,Rapid Vienna,Austrian T-Mobile Bundesliga,1827
+411111,Zenit St Petersburg,Zenit,Russian Premier Liga,1866
+412546,Wolfsberger AC,Wolfsberg,Austrian T-Mobile Bundesliga,1827
+413637,LASK Linz,LASK Linz,Austrian T-Mobile Bundesliga,1827
+414728,Young Boys,Young Boys,Swiss Raiffeisen Super League,1879
+415808,Lausanne Sports,,Swiss Raiffeisen Super League,1879
+416888,FC Krasnodar,Krasnodar,Russian Premier Liga,1866
+418323,Lobos de la BUAP,,Mexican Primera Division Torneo Apertura,1952
+419355,FC Ufa,,Russian Premier Liga,1866
+420790,FC Luzern,Luzern,Swiss Raiffeisen Super League,1879
+421870,Thun,,Swiss Raiffeisen Super League,1879
+422950,Grasshoppers ZÃ¼rich,Grasshoppers,Swiss Raiffeisen Super League,1879
+424030,Cashpoint SC Rheindorf Altach,Rheindorf Altach,Austrian T-Mobile Bundesliga,1827
+425121,SK Sturm Graz,Sturm Graz,Austrian T-Mobile Bundesliga,1827
+426212,FC Arsenal Tula,,Russian Premier Liga,1866
+427647,Paris FC,Paris FC,French Ligue 2,1844
+429927,Tours,,French Ligue 2,1844
+432207,Brest,Brest,French Ligue 1,1843
+434867,Valenciennes,Valenciennes,French Ligue 2,1844
+437147,Sochaux,Sochaux,French Ligue 2,1844
+439427,OrlÃ©ans,,French Ligue 2,1844
+441707,Nimes,Nîmes,French Ligue 2,1844
+443987,Niort,Niort,French Ligue 2,1844
+446267,VfL Bochum,VfL Bochum,German Bundesliga,1845
+448409,Arminia Bielefeld,Arminia,German 2. Bundesliga,1846
+450245,FC Salzburg,RB Salzburg,Austrian T-Mobile Bundesliga,1827
+451336,SV Mattersburg,,Austrian T-Mobile Bundesliga,1827
+452427,St. PÃ¶lten,,Austrian T-Mobile Bundesliga,1827
+453518,1. FC NÃ¼rnberg,Nürnberg,German 2. Bundesliga,1846
+455354,Amkar Perm,,Russian Premier Liga,1866
+456789,Dynamo Dresden,,German 2. Bundesliga,1846
+458625,Holstein Kiel,Holstein Kiel,German 2. Bundesliga,1846
+460461,FC Zurich,Zürich,Swiss Raiffeisen Super League,1879
+461541,FK Austria Vienna,Austria Vienna,Austrian T-Mobile Bundesliga,1827
+462632,FC Trenkwalder Admira,,Austrian T-Mobile Bundesliga,1827
+463723,Spartak Moscow,Spartak Moscow,Russian Premier Liga,1866
+465158,Fortuna DÃ¼sseldorf,Fortuna,German 2. Bundesliga,1846
+466994,Auxerre,Auxerre,French Ligue 1,1843
+469654,SV Sandhausen,SV Sandhausen,German 2. Bundesliga,1846
+471490,1. FC Union Berlin,Union Berlin,German Bundesliga,1845
+473632,Clermont Foot,Clermont,French Ligue 1,1843
+476292,Le Havre,Le Havre,French Ligue 2,1844
+478572,Bourg-Peronnas,,French Ligue 2,1844
+480852,Lens,Lens,French Ligue 1,1843
+483512,US Quevilly,US Quevilly,French Ligue 2,1844
+485792,AC Ajaccio,AC Ajaccio,French Ligue 1,1843
+488452,Chateauroux,,French Ligue 2,1844
+490732,GFC Ajaccio,,French Ligue 2,1844
+493012,1. FC Kaiserslautern,1. FCK,German 2. Bundesliga,1846
+494848,Nottingham Forest,Nottm Forest,English League Championship,2412
+498185,MSV Duisburg,,German 2. Bundesliga,1846
+500021,Reims,Reims,French Ligue 1,1843
+502681,Eintracht Braunschweig,Braunschweig,German 2. Bundesliga,1846
+504517,Kilmarnock,Kilmarnock,Scottish Premiership,2417
+505819,Hibernian,Hibernian,Scottish Premiership,2417
+507121,Queens Park Rangers,QPR,English League Championship,2412
+510458,Fulham,Fulham,English League Championship,2412
+513795,Sheffield United,Sheffield Utd,English League Championship,2412
+517132,Ipswich Town,Ipswich Town,English League One,2413
+519760,Bristol City,Bristol City,English League Championship,2412
+523097,Burton Albion,Burton Albion,English League One,2413
+525725,Wolverhampton,Wolves,English League Championship,2412
+529062,Preston North End,Preston,English League Championship,2412
+532399,Aston Villa,Aston Villa,English League Championship,2412
+535736,FC Lugano,Lugano,Swiss Raiffeisen Super League,1879
+536816,Troyes,Troyes,French Ligue 1,1843
+539476,Jahn Regensburg,Regensburg,German 2. Bundesliga,1846
+541312,Motherwell,Motherwell,Scottish Premiership,2417
+542614,Erzgebirge Aue,,German 2. Bundesliga,1846
+544450,SpVgg Greuther FÃ¼rth,Greuther Fürth,German 2. Bundesliga,1846
+546286,St Gallen,St. Gallen,Swiss Raiffeisen Super League,1879
+547366,Aberdeen,Aberdeen,Scottish Premiership,2417
+548668,Bolton,Bolton,English League One,2413
+551296,Desportivo Aves,,Portuguese Liga,1864
+553132,Vitoria Setubal,,Portuguese Liga,1864
+554968,Portimonense,Portimonense,Portuguese Liga,1864
+556804,Feirense,,Portuguese Liga,1864
+558640,FC St. Pauli,FC St. Pauli,German 2. Bundesliga,1846
+560476,Rio Ave,Rio Ave,Portuguese Liga,1864
+562312,Maritimo,Maritimo,Portuguese Liga,1864
+564148,1. FC Heidenheim 1846,Heidenheim,German 2. Bundesliga,1846
+565984,Guimaraes,Guimaraes,Portuguese Liga,1864
+567820,ADO Den Haag,,Dutch Eredivisie,1849
+569656,Partick Thistle,,Scottish Premiership,2417
+570958,Istanbul Basaksehir,Ba?ak?ehir,Turkish Turkcell Super Lig,1882
+573018,Sheffield Wednesday,Sheffield Wed.,English League One,2413
+575646,St Johnstone,St Johnstone,Scottish Premiership,2417
+576948,Birmingham,Birmingham,English League Championship,2412
+580285,Brentford,Brentford,Barclays Premier League,2411
+582945,Rangers,Rangers,Scottish Premiership,2417
+584247,Derby County,Derby County,English League One,2413
+586875,Barnsley,Barnsley,English League One,2413
+589503,Cardiff City,Cardiff City,English League Championship,2412
+592840,Hamilton Academical,,Scottish Premiership,2417
+594142,Ross County,Ross County,Scottish Premiership,2417
+595444,Leeds United,Leeds United,Barclays Premier League,2411
+598104,Millwall,Millwall,English League Championship,2412
+601441,Moreirense,,Portuguese Liga,1864
+603277,Brighton and Hove Albion,Brighton,Barclays Premier League,2411
+605937,VVV Venlo,,Dutch Eredivisie,1849
+607773,Akhisar Belediye,,Turkish Turkcell Super Lig,1882
+609833,Genclerbirligi,,Turkish Turkcell Super Lig,1882
+611893,Belenenses,,Portuguese Liga,1864
+613729,Amiens,Amiens,French Ligue 2,1844
+616009,Heracles,,Dutch Eredivisie,1849
+617845,Vitesse,Vitesse,Dutch Eredivisie,1849
+619681,Goztepe,,Turkish Turkcell Super Lig,1882
+621741,Alanyaspor,Alanyaspor,Turkish Turkcell Super Lig,1882
+623801,Boavista,Boavista,Portuguese Liga,1864
+625637,PEC Zwolle,,Dutch Eredivisie,1849
+627473,Feyenoord,Feyenoord,Dutch Eredivisie,1849
+629309,Norwich City,Norwich,English League Championship,2412
+632646,Willem II,,Dutch Eredivisie,1849
+634482,Newcastle,Newcastle,Barclays Premier League,2411
+637142,Strasbourg,Strasbourg,French Ligue 1,1843
+639802,FC Groningen,Groningen,Dutch Eredivisie,1849
+641638,Pacos Ferreira,Pacos Ferreira,Portuguese Liga,1864
+643474,Yeni Malatyaspor,,Turkish Turkcell Super Lig,1882
+645534,Trabzonspor,Trabzonspor,Turkish Turkcell Super Lig,1882
+647594,Braga,Braga,Portuguese Liga,1864
+649430,Tondela,,Portuguese Liga,1864
+651266,Estoril Praia,Estoril,Portuguese Liga,1864
+653102,Galatasaray,Galatasaray,Turkish Turkcell Super Lig,1882
+655162,Chaves,Chaves,Portuguese Liga,1864
+656998,Roda JC,,Dutch Eredivisie,1849
+658834,La Hoya Lorca,,Spanish Segunda Division,1871
+661635,Kasimpasa,Kas?mpa?a,Turkish Turkcell Super Lig,1882
+663695,Tenerife,Tenerife,Spanish Segunda Division,1871
+666496,KarabÃ¼kspor,,Turkish Turkcell Super Lig,1882
+668556,FC Twente,Twente,Dutch Eredivisie,1849
+670392,Bursaspor,,Turkish Turkcell Super Lig,1882
+672452,AD Alcorcon,,Spanish Segunda Division,1871
+675253,AZ,AZ Alkmaar,Dutch Eredivisie,1849
+677089,Girona FC,Girona,Spanish Primera Division,1869
+679749,Numancia,,Spanish Segunda Division,1871
+682550,Cordoba,,Spanish Segunda Division,1871
+685351,Verona,Verona,Italy Serie A,1854
+688011,Ankaraspor,,Turkish Turkcell Super Lig,1882
+690071,Heerenveen,Heerenveen,Dutch Eredivisie,1849
+691907,Sivasspor,Sivasspor,Turkish Turkcell Super Lig,1882
+693967,Real Valladolid,Valladolid,Spanish Primera Division,1869
+696627,Excelsior,Excelsior,Dutch Eredivisie,1849
+698463,FC Utrecht,Utrecht,Dutch Eredivisie,1849
+700299,Huddersfield Town,Huddersfield,English League Championship,2412
+703636,Ajax,Ajax,Dutch Eredivisie,1849
+705472,FC Sion,Sion,Swiss Raiffeisen Super League,1879
+706552,NAC,NAC,Dutch Eredivisie,1849
+708388,Sparta,Sparta,Dutch Eredivisie,1849
+710224,Kayserispor,Kayserispor,Turkish Turkcell Super Lig,1882
+712284,Real Oviedo,Oviedo,Spanish Segunda Division,1871
+715085,GimnÃ¡stic Tarragona,,Spanish Segunda Division,1871
+717886,Fenerbahce,Fenerbahçe,Turkish Turkcell Super Lig,1882
+719946,Antalyaspor,Antalyaspor,Turkish Turkcell Super Lig,1882
+722006,Lugo,Lugo,Spanish Segunda Division,1871
+724807,Levante,Levante,Spanish Segunda Division,1871
+727608,Konyaspor,Konyaspor,Turkish Turkcell Super Lig,1882
+729668,Albacete,Albacete,Spanish Segunda Division,1871
+732469,Parma,Parma,Italy Serie B,1856
+734841,Tigre,Tigre,Argentina Primera Division,5641
+736523,Banfield,Banfield,Argentina Primera Division,5641
+738205,VfB Stuttgart,VfB Stuttgart,German Bundesliga,1845
+740347,Benevento,Benevento,Italy Serie B,1856
+742719,SD Huesca,Huesca,Spanish Segunda Division,1871
+745520,Cultural Leonesa,,Spanish Segunda Division,1871
+748321,Defensa y Justicia,Justicia,Argentina Primera Division,5641
+750003,F.B.C Unione Venezia,Venezia,Italy Serie B,1856
+752375,Sevilla Atletico,,Spanish Segunda Division,1871
+755176,Ternana,Ternana,Italy Serie B,1856
+757548,Virtus Entella,,Italy Serie B,1856
+759920,Rayo Vallecano,Rayo Vallecano,Spanish Primera Division,1869
+762580,Carpi,Carpi,Italy Serie B,1856
+764952,Cittadella,Cittadella,Italy Serie B,1856
+767324,Avellino,Avellino,Italy Serie B,1856
+769696,Pro Vercelli,,Italy Serie B,1856
+772068,Colon Santa Fe,Colón,Argentina Primera Division,5641
+773750,Almeria,Almeria,Spanish Primera Division,1869
+776410,Talleres de CÃ³rdoba,Talleres,Argentina Primera Division,5641
+778092,CA Independiente,Independiente,Argentina Primera Division,5641
+779774,San Martin San Juan,,Brasileiro SÃ©rie A,
+779775,Hannover 96,Hannover 96,German 2. Bundesliga,1846
+781611,Real Zaragoza,Zaragoza,Spanish Segunda Division,1871
+784412,AtlÃ©tico TucumÃ¡n,Atlético,Argentina Primera Division,5641
+786094,Getafe,Getafe,Spanish Primera Division,1869
+788754,Reus Deportiu,,Spanish Segunda Division,1871
+791555,Cadiz,Cádiz,Spanish Primera Division,1869
+794215,Spal,Spal,Italy Serie A,1854
+796875,San Lorenzo,San Lorenzo,Argentina Primera Division,5641
+798557,Boca Juniors,Boca Juniors,Argentina Primera Division,5641
+800239,Temperley,Temperley,Brasileiro SÃ©rie A,
+800240,Bari,Bari,Italy Serie B,1856
+802612,FC Barcelona II,,Spanish Segunda Division,1871
+805413,Newell's Old Boys,Newell's,Argentina Primera Division,5641
+807095,Estudiantes,Estudiantes,Argentina Primera Division,5641
+808777,Brescia,Brescia,Italy Serie B,1856
+811149,Frosinone,Frosinone,Italy Serie B,1856
+813521,Cremonese,Cremonese,Italy Serie A,1854
+816181,Perugia,Perugia,Italy Serie B,1856
+818553,Novara,Novara,Italy Serie B,1856
+820925,Ascoli,Ascoli,Italy Serie B,1856
+823297,Cesena,Cesena,Italy Serie B,1856
+825669,Spezia,Spezia,Italy Serie B,1856
+828041,Foggia,Foggia,Italy Serie B,1856
+830413,Salernitana,Salernitana,Italy Serie A,1854
+833073,Arsenal Sarandi,Arsenal,Argentina Primera Division,5641
+834755,Velez Sarsfield,Vélez Sarsfield,Brasileiro SÃ©rie A,
+834756,Olimpo,Olimpo,Brasileiro SÃ©rie A,
+834757,Hearts,Hearts,Scottish Premiership,2417
+836059,Belgrano Cordoba,,Brasileiro SÃ©rie A,
+836060,Patronato,Patronato,Argentina Primera Division,5641
+837742,Racing Club,Racing,Argentina Primera Division,5641
+839424,Chacarita Juniors,,Brasileiro SÃ©rie A,
+839425,Godoy Cruz,Godoy Cruz,Argentina Primera Division,5641
+841107,Rosario Central,Rosario Central,Argentina Primera Division,5641
+842789,River Plate,River Plate,Argentina Primera Division,5641
+844471,Lanus,Lanús,Argentina Primera Division,5641
+846153,Union Santa Fe,Unión,Argentina Primera Division,5641
+847835,HuracÃ¡n,HuracÃ¡n,Argentina Primera Division,5641
+849517,Olympiacos,,UEFA Champions League,1818
+850373,NK Maribor,,UEFA Champions League,1818
+851229,Shakhtar Donetsk,,UEFA Champions League,1818
+852085,ZlÃ­n,,UEFA Europa League,1820
+853149,Slavia Prague,,UEFA Europa League,1820
+854213,Apollon Limassol,,UEFA Europa League,1820
+855277,Rijeka,,UEFA Europa League,1820
+856341,SV Zulte Waregem,,UEFA Europa League,1820
+857405,Hapoel Be'er,,UEFA Europa League,1820
+858469,FC Zorya Luhansk,,UEFA Europa League,1820
+859533,Vardar,,UEFA Europa League,1820
+860597,Red Star Belgrade,,UEFA Europa League,1820
+861661,Steaua Bucuresti,,UEFA Europa League,1820
+862725,Argentinos Juniors,Argentinos,Argentina Primera Division,5641
+864407,Gimnasia La Plata,Gimnasia,Argentina Primera Division,5641
+866089,Everton Ladies,Everton,FA Women's Super League,7921
+866822,Yeovil Town Ladies,Yeovil,FA Women's Super League,7921
+867555,Apoel Nicosia,,UEFA Champions League,1818
+868411,FK Qarabag,,UEFA Champions League,1818
+869267,Anderlecht,,UEFA Champions League,1818
+870123,FC Astana,,UEFA Europa League,1820
+871187,Viktoria Plzen,,UEFA Europa League,1820
+872251,BATE Borisov,,UEFA Europa League,1820
+873315,AEK Athens,,UEFA Europa League,1820
+874379,FC Sheriff Tiraspol,,UEFA Europa League,1820
+875443,Maccabi Tel-Aviv,,UEFA Europa League,1820
+876507,Skenderbeu Korce,,UEFA Europa League,1820
+877571,FK Partizan Belgrade,,UEFA Europa League,1820
+878635,Bristol Academy,Bristol,FA Women's Super League,7921
+879368,Bodo/Glimt,Bodø/Glimt,Norwegian Tippeligaen,1859
+880808,IK Start,,Norwegian Tippeligaen,1859
+882248,Rio Grande Valley FC Toros,RGV Toros,United Soccer League,2160
+884728,Tacoma Defiance,,United Soccer League,2160
+887208,New York Red Bulls II,NY Red Bulls II,United Soccer League,2160
+889688,Louisville City FC,Louisville City,United Soccer League,2160
+892168,Reno 1868 FC,,United Soccer League,2160
+894648,Charleston Battery,Charleston,United Soccer League,2160
+897128,Charlotte Independence,,United Soccer League,2160
+899608,Colorado Springs Switchbacks FC,C.S. Switchbacks,United Soccer League,2160
+902088,Oklahoma City Energy FC,,United Soccer League,2160
+904568,Fresno FC,,United Soccer League,2160
+907048,Orange County SC,Orange County,United Soccer League,2160
+909528,Sacramento Republic FC,Sacramento,United Soccer League,2160
+912008,Bethlehem Steel FC,,United Soccer League,2160
+914488,Richmond Kickers,,United Soccer League,2160
+916968,Nashville SC,,United Soccer League,2160
+919448,Atlanta United 2,Atlanta United 2,United Soccer League,2160
+921928,Tampa Bay Rowdies,Tampa Bay,United Soccer League,2160
+924408,Tulsa Roughnecks,FC Tulsa,United Soccer League,2160
+926888,Swope Park Rangers,,United Soccer League,2160
+929368,San Antonio FC,San Antonio,United Soccer League,2160
+931848,Arizona United,,United Soccer League,2160
+934328,Las Vegas Lights FC,Las Vegas Lights,United Soccer League,2160
+936808,Real Monarchs SLC,,United Soccer League,2160
+939288,Saint Louis FC,,United Soccer League,2160
+941768,LA Galaxy II,LA Galaxy II,United Soccer League,2160
+944248,Indy Eleven,Indy Eleven,United Soccer League,2160
+946728,Pittsburgh Riverhounds,Pittsburgh,United Soccer League,2160
+949208,Trelleborgs FF,,Swedish Allsvenskan,1874
+950648,Ranheim,,Norwegian Tippeligaen,1859
+952088,FC Cincinnati,,United Soccer League,2160
+954568,Dalkurd FF,,Swedish Allsvenskan,1874
+956008,Brommapojkarna,,Swedish Allsvenskan,1874
+957448,AmÃ©rica Mineiro,América Mineiro,Brasileiro SÃ©rie A,
+957449,Internacional,Internacional,Brasileiro SÃ©rie A,
+957450,Toronto FC II,,United Soccer League,2160
+959930,Portland Timbers 2,,United Soccer League,2160
+962410,Ottawa Fury FC,,United Soccer League,2160
+964890,Penn FC,,United Soccer League,2160
+967370,ParanÃ¡,,Brasileiro SÃ©rie A,
+967371,CearÃ¡,Ceará,Brasileiro SÃ©rie A,
+967372,Los Angeles FC,LAFC,Major League Soccer,1951
+969877,Vejle,,Danish SAS-Ligaen,1837
+970881,Sonderjyske,,Danish SAS-Ligaen,1837
+971885,FC Midtjylland,Midtjylland,Danish SAS-Ligaen,1837
+972889,FC Nordsjaelland,Nordsjaelland,Danish SAS-Ligaen,1837
+973893,Vendsyssel,,Danish SAS-Ligaen,1837
+974897,Randers FC,Randers,Danish SAS-Ligaen,1837
+975901,AaB,AaB,Danish SAS-Ligaen,1837
+976905,Esbjerg,,Danish SAS-Ligaen,1837
+977909,AC Horsens,Horsens,Danish SAS-Ligaen,1837
+978913,Odense BK,Odense,Danish SAS-Ligaen,1837
+979917,AGF Aarhus,AGF Aarhus,Danish SAS-Ligaen,1837
+980921,Brondby,Brondby,Danish SAS-Ligaen,1837
+981925,Hobro IK,,Danish SAS-Ligaen,1837
+982929,Red Star FC 93,,French Ligue 2,1844
+985209,Grenoble,Grenoble,French Ligue 2,1844
+987489,Standard Liege,Standard Liège,Belgian Jupiler League,1832
+988965,KV Kortrijk,Kortrijk,Belgian Jupiler League,1832
+990441,Neuchatel Xamax,,Swiss Raiffeisen Super League,1879
+991521,St. Truidense,Sint-Truidense,Belgian Jupiler League,1832
+992997,KV Oostende,Oostende,Belgian Jupiler League,1832
+994473,Metallurg Krasnoyarsk,,Russian Premier Liga,1866
+995908,Sporting de Charleroi,Charleroi,Belgian Jupiler League,1832
+997384,KSC Lokeren,,Belgian Jupiler League,1832
+998860,Krylia Sovetov,Krylia Sovetov,Russian Premier Liga,1866
+1000295,Shimizu S-Pulse,Shimizu S-Pulse,Japanese J League,1947
+1001740,Urawa Red Diamonds,Urawa Red,Japanese J League,1947
+1003185,Changchun Yatai,,Chinese Super League,1979
+1003554,Shandong Luneng,Shandong,Chinese Super League,1979
+1003923,Cerezo Osaka,Cerezo Osaka,Japanese J League,1947
+1005368,Jubilo Iwata,Jubilo Iwata,Japanese J League,1947
+1006813,V-Varen Nagasaki,,Japanese J League,1947
+1008258,Kashima Antlers,Kashima Antlers,Japanese J League,1947
+1009703,Vegalta Sendai,,Japanese J League,1947
+1011148,Yokohama F. Marinos,Yokohama,Japanese J League,1947
+1012593,Kashiwa Reysol,Kashiwa Reysol,Japanese J League,1947
+1014038,Chongqing Lifan,Chongqing Lifan,Chinese Super League,1979
+1014407,Henan Jianye,Henan Jianye,Chinese Super League,1979
+1014776,Guangzhou RF,Guangzhou R&F,Chinese Super League,1979
+1015145,Shanghai SIPG,Shanghai SIPG,Chinese Super League,1979
+1015514,Beijing Guoan,Beijing Guoan,Chinese Super League,1979
+1015883,Tianjin Teda,Tianjin Teda,Chinese Super League,1979
+1016252,Beziers AS,,French Ligue 2,1844
+1018532,Waasland-Beveren,,Belgian Jupiler League,1832
+1020008,Guizhou Renhe,Beijing Renhe,Chinese Super League,1979
+1020377,Tianjin Quanujian,Tianjin Quanujian,Chinese Super League,1979
+1020746,Mamelodi Sundowns,M. Sundowns,South African ABSA Premier League,1983
+1021706,Exeter City,Exeter City,English League One,2413
+1024334,Grimsby Town,Grimsby Town,English League Two,2414
+1027002,Notts County,,English League Two,2414
+1029670,Oldham Athletic,,English League Two,2414
+1032338,Wigan,Wigan,English League Championship,2412
+1035675,Port Vale,Port Vale,English League One,2413
+1038303,St Mirren,St Mirren,Scottish Premiership,2417
+1039605,Mansfield Town,Mansfield Town,English League Two,2414
+1042273,Accrington Stanley,Stanley,English League One,2413
+1044901,Coventry City,Coventry City,English League Championship,2412
+1048238,Fleetwood Town,Fleetwood Town,English League One,2413
+1050866,Peterborough United,Peterborough,English League One,2413
+1053494,Portsmouth,Portsmouth,English League One,2413
+1056122,Shrewsbury Town,Shrewsbury,English League One,2413
+1058750,Walsall,Walsall,English League Two,2414
+1061418,Wycombe Wanderers,Wycombe,English League One,2413
+1064046,Swindon Town,Swindon Town,English League Two,2414
+1066714,Northampton Town,Northampton,English League Two,2414
+1069382,Stevenage,Stevenage,English League Two,2414
+1072050,Crewe Alexandra,Crewe Alexandra,English League Two,2414
+1074718,Bury,,English League Two,2414
+1077386,Cheltenham Town,Cheltenham,English League One,2413
+1080014,Southend United,,English League One,2413
+1082642,FC Wacker Innsbruck,,Austrian T-Mobile Bundesliga,1827
+1083733,Eupen,Eupen,Belgian Jupiler League,1832
+1085209,Black Leopards,,South African ABSA Premier League,1983
+1086169,Bidvest Wits,,South African ABSA Premier League,1983
+1087129,Black Aces,,South African ABSA Premier League,1983
+1088089,Antwerp,Antwerp,Belgian Jupiler League,1832
+1089565,Cercle Brugge,Cercle Brugge,Belgian Jupiler League,1832
+1091041,Orlando Pirates,Orlando Pirates,South African ABSA Premier League,1983
+1092001,AmaZulu,AmaZulu,South African ABSA Premier League,1983
+1092961,KAA Gent,Gent,Belgian Jupiler League,1832
+1094437,Consadole Sapporo,Consa,Japanese J League,1947
+1095882,Nagoya Grampus Eight,Nagoya,Japanese J League,1947
+1097327,Sanfrecce Hiroshima,Sanfrecce,Japanese J League,1947
+1098772,FC Tokyo,FC Tokyo,Japanese J League,1947
+1100217,Kawasaki Frontale,Kawasaki,Japanese J League,1947
+1101662,Sagan Tosu,Sagan Tosu,Japanese J League,1947
+1103107,1. FC Magdeburg,1. FC Magdeburg,German 2. Bundesliga,1846
+1104943,Jiangsu Suning FC,Jiangsu Suning,Chinese Super League,1979
+1105312,Hebei China Fortune FC,Hebei CF,Chinese Super League,1979
+1105681,Dalian Aerbin,Dalian Yifang,Chinese Super League,1979
+1106050,Bloem Celtic,,South African ABSA Premier League,1983
+1107010,Maritzburg Utd,Maritzburg Utd,South African ABSA Premier League,1983
+1107970,Hartberg,Hartberg,Austrian T-Mobile Bundesliga,1827
+1109061,Genk,Genk,Belgian Jupiler League,1832
+1110537,Mouscron-Peruwelz,,Belgian Jupiler League,1832
+1112013,Kaizer Chiefs,Kaizer Chiefs,South African ABSA Premier League,1983
+1112973,Polokwane City FC,,South African ABSA Premier League,1983
+1113933,Chippa United,Chippa United,South African ABSA Premier League,1983
+1114893,Baroka FC,,South African ABSA Premier League,1983
+1115853,Free State Stars,,South African ABSA Premier League,1983
+1116813,Golden Arrows,Golden Arrows,South African ABSA Premier League,1983
+1117773,SuperSport United,SuperSport Utd,South African ABSA Premier League,1983
+1118733,Highlands Park FC,,South African ABSA Premier League,1983
+1119693,Gamba Osaka,Gamba Osaka,Japanese J League,1947
+1121138,SC Paderborn,SC Paderborn,German 2. Bundesliga,1846
+1122974,Ankaragucu,Ankaragücü,Turkish Turkcell Super Lig,1882
+1125034,Shonan Bellmare,Shonan,Japanese J League,1947
+1126479,Vissel Kobe,Vissel Kobe,Japanese J League,1947
+1127924,Blackburn,Blackburn,English League Championship,2412
+1131261,Livingston,Livingston,Scottish Premiership,2417
+1132563,Blackpool,Blackpool,English League Championship,2412
+1135900,Colchester United,Colchester,English League Two,2414
+1138568,Scunthorpe,,English League One,2413
+1141196,AFC Wimbledon,Wimbledon,English League Two,2414
+1143864,Lincoln City,Lincoln City,English League One,2413
+1146492,Morecambe,Morecambe,English League One,2413
+1149120,Milton Keynes Dons,MK Dons,English League One,2413
+1151748,Bristol Rovers,Bristol Rovers,English League One,2413
+1154376,Gillingham,Gillingham,English League Two,2414
+1157044,Plymouth Argyle,Plymouth Argyle,English League One,2413
+1159672,Doncaster Rovers,Doncaster ,English League Two,2414
+1162340,Rochdale,Rochdale,English League Two,2414
+1165008,Macclesfield,,English League Two,2414
+1167676,Luton Town,Luton Town,English League Championship,2412
+1171013,Carlisle United,Carlisle United,English League Two,2414
+1173681,Newport County,Newport County,English League Two,2414
+1176349,Bradford City,Bradford City,English League Two,2414
+1179017,Cambridge United,Cambridge,English League One,2413
+1181645,Rotherham United,Rotherham United,English League Championship,2412
+1184982,Forest Green Rovers,Forest Green,English League One,2413
+1187610,Oxford United,Oxford United,English League One,2413
+1190238,Charlton Athletic,Charlton Athletic,English League One,2413
+1192866,Yeovil Town,,English League Two,2414
+1195534,Tranmere Rovers,Tranmere Rovers,English League Two,2414
+1198202,Crawley Town,Crawley Town,English League Two,2414
+1200870,Caykur Rizespor,,Turkish Turkcell Super Lig,1882
+1202930,Gazovik Orenburg,Orenburg,Russian Premier Liga,1866
+1204365,De Graafschap,,Dutch Eredivisie,1849
+1206201,Shanghai Greenland,Shenhua,Chinese Super League,1979
+1206570,Guizhou Hengfeng Zhicheng,,Chinese Super League,1979
+1206939,Elche,Elche,Spanish Primera Division,1869
+1209599,Fortuna Sittard,Fortuna Sittard,Dutch Eredivisie,1849
+1211435,Guangzhou Evergrande,Guangzhou E.,Chinese Super League,1979
+1211804,Emmen,Emmen,Dutch Eredivisie,1849
+1213640,C.D. Nacional,,Portuguese Liga,1864
+1215476,Erzurumspor,,Turkish Turkcell Super Lig,1882
+1217536,Mallorca,Mallorca,Spanish Primera Division,1869
+1220196,Aldosivi,Aldosivi,Brasileiro SÃ©rie A,
+1220197,Santa Clara,Santa Clara,Portuguese Liga,1864
+1222033,San Martin de Tucuman,,Brasileiro SÃ©rie A,
+1222034,Extremadura UD,,Spanish Segunda Division,1871
+1224835,PAOK Salonika,PAOK,Greek Super League,1884
+1225737,Panetolikos,Panetolikos,Greek Super League,1884
+1226639,Apollon Smyrni,,Greek Super League,1884
+1227541,FC Xanthi,,Greek Super League,1884
+1228443,Panionios,,Greek Super League,1884
+1229345,Rayo Majadahonda,,Spanish Segunda Division,1871
+1232146,Lamia,Lamia,Greek Super League,1884
+1233048,Padova,Padova,Italy Serie B,1856
+1235420,Cosenza,Cosenza,Italy Serie B,1856
+1237792,Panathinaikos,Panathinaikos,Greek Super League,1884
+1238694,Asteras Tripolis,Asteras Tripolis,Greek Super League,1884
+1239596,Atromitos,Atromitos,Greek Super League,1884
+1240498,Aris Salonika,Aris,Greek Super League,1884
+1241400,Lecce,Lecce,Italy Serie A,1854
+1244060,Levadiakos,Levadiakos,Greek Super League,1884
+1244962,Brighton & Hove Albion,Brighton,FA Women's Super League,7921
+1245695,OFI Crete,OFI,Greek Super League,1884
+1246597,Larissa,,Greek Super League,1884
+1247499,Livorno,Livorno,Italy Serie B,1856
+1249871,West Ham United Ladies,West,FA Women's Super League,7921
+1250604,Videoton FC,,UEFA Europa League,1820
+1251668,F91 Dudelange,,UEFA Europa League,1820
+1252732,FC Spartak Trnava,,UEFA Europa League,1820
+1253796,AEK Larnaca,,UEFA Europa League,1820
+1254860,Giannina,Giannina,Greek Super League,1884
+1255762,Vorskla,,UEFA Europa League,1820
+1256826,Jablonec,,UEFA Europa League,1820
+1257890,Adelaide United,Adelaide United,Australian A-League,1948
+1258658,Melbourne Victory,Melbourne Vic,Australian A-League,1948
+1259426,Wellington Phoenix,W. Phoenix,Australian A-League,1948
+1260194,Brisbane Roar,Brisbane Roar,Australian A-League,1948
+1260962,Perth Glory,Perth Glory,Australian A-League,1948
+1261730,Central Coast Mariners,C.C. Mariners,Australian A-League,1948
+1262498,Sydney FC,Sydney FC,Australian A-League,1948
+1263266,Melbourne City,Melbourne City,Australian A-League,1948
+1264034,Newcastle Jets,Newcastle Jets,Australian A-League,1948
+1264802,Western Sydney FC,Western Sydney,Australian A-League,1948
+1265570,Wuhan Zall,Wuhan Zall,Chinese Super League,1979
+1265939,Oita Trinita,,Japanese J League,1947
+1267384,Shenzhen FC,Shenzhen,Chinese Super League,1979
+1267753,Matsumoto Yamaga FC,,Japanese J League,1947
+1269198,Memphis 901 FC,Memphis 901,United Soccer League,2160
+1271678,El Paso Locomotive FC,El Paso,United Soccer League,2160
+1274158,New Mexico United,New Mexico,United Soccer League,2160
+1276638,Birmingham Legion FC,Birmingham,United Soccer League,2160
+1279118,Austin Bold FC,,United Soccer League,2160
+1281598,Falkenbergs FF,,Swedish Allsvenskan,1874
+1283038,Helsingborgs IF,Helsingborgs,Swedish Allsvenskan,1874
+1284478,Mjondalen,,Norwegian Tippeligaen,1859
+1285918,CSA,,Brasileiro SÃ©rie A,
+1285919,Fortaleza,Fortaleza,Brasileiro SÃ©rie A,
+1285920,GoiÃ¡s,Goiás,Brasileiro SÃ©rie A,
+1285921,Loudoun United FC,Loudoun United,United Soccer League,2160
+1288401,Hartford Athletic,Hartford Athletic,United Soccer League,2160
+1290881,Lyngby,Lyngby,Danish SAS-Ligaen,1837
+1291885,AtlÃ©tico San Luis,San Luis,Mexican Primera Division Torneo Apertura,1952
+1292917,Silkeborg,Silkeborg,Danish SAS-Ligaen,1837
+1293921,Sochi,Sochi,Russian Premier Liga,1866
+1295356,Rodez,Rodez,French Ligue 2,1844
+1297636,Chambly Thelle FC,,French Ligue 2,1844
+1299916,Le Mans,,French Ligue 2,1844
+1302196,FC Tambov,,Russian Premier Liga,1866
+1303631,VfL Osnabruck,,German 2. Bundesliga,1846
+1305467,WSG Swarovski Wattens,WSG Tirol,Austrian T-Mobile Bundesliga,1827
+1306558,Servette,Servette,Swiss Raiffeisen Super League,1879
+1307638,SV Wehen Wiesbaden,,German 2. Bundesliga,1846
+1309474,Karlsruher SC,Karlsruher SC,German 2. Bundesliga,1846
+1311310,Salford City,Salford City,English League Two,2414
+1313978,Leyton Orient,Leyton Orient,English League Two,2414
+1316646,KV Mechelen,Mechelen,Belgian Jupiler League,1832
+1318122,Central CÃ³rdoba Santiago del Estero,Central Córdoba,Argentina Primera Division,5641
+1319804,FC JuÃ¡rez,FC Juárez,Mexican Primera Division Torneo Apertura,1952
+1320836,Gil Vicente,Gil Vicente,Portuguese Liga,1864
+1322672,RKC,RKC,Dutch Eredivisie,1849
+1324508,Denizlispor,,Turkish Turkcell Super Lig,1882
+1326568,Famalicao,Famalicão,Portuguese Liga,1864
+1328404,Racing Santander,Racing,Spanish Segunda Division,1871
+1331205,Pisa,Pisa,Italy Serie B,1856
+1333577,Mirandes,Mirandés,Spanish Segunda Division,1871
+1336378,Stellenbosch FC,Stellenbosch,South African ABSA Premier League,1983
+1337338,SD Ponferradina,Ponferradina,Spanish Segunda Division,1871
+1340139,Gazisehir Gaziantep,GFK,Turkish Turkcell Super Lig,1882
+1342199,Pordenone Calcio,,Italy Serie B,1856
+1344571,Fuenlabrada,,Spanish Segunda Division,1871
+1347372,Volos NFC,Volos,Greek Super League,1884
+1348274,Trapani,,Italy Serie B,1856
+1350646,Juve Stabia,,Italy Serie B,1856
+1353018,Tottenham Women,Tottenham,FA Women's Super League,7921
+1353751,Manchester United Women,Man. United,FA Women's Super League,7921
+1354484,CFR 1907 Cluj,,UEFA Europa League,1820
+1355548,Slovan Bratislava,,UEFA Europa League,1820
+1356612,PFC Oleksandriya,,UEFA Europa League,1820
+1357676,Ferencvaros,,UEFA Europa League,1820
+1358740,Western United,Western United,Australian A-League,1948
+1359508,San Diego Loyal SC,San Diego Loyal,United Soccer League,2160
+1361988,Mjallby,Mjällby,Swedish Allsvenskan,1874
+1363428,Varbergs BoIS FC,Varbergs BoIS,Swedish Allsvenskan,1874
+1364868,Yokohama FC,,Japanese J League,1947
+1366313,Inter Miami CF,Inter Miami,Major League Soccer,1951
+1368818,MazatlÃ¡n FC,Mazatlán,Mexican Primera Division Torneo Apertura,1952
+1369850,Dundee Utd,Dundee Utd,Scottish Premiership,2417
+1371152,Miami FC,The Miami FC,United Soccer League,2160
+1373632,FC Khimki,FC Khimki,Russian Premier Liga,1866
+1375067,OH Leuven,OH Leuven,Belgian Jupiler League,1832
+1376543,FK Volgograd,,Russian Premier Liga,1866
+1377978,Bragantino,Bragantino,Brasileiro SÃ©rie A,
+1377979,KFCO Beerschot-Wilrijk,,Belgian Jupiler League,1832
+1379455,Pau,Pau,French Ligue 2,1844
+1381735,Dunkerque,,French Ligue 2,1844
+1384015,Barrow,Barrow,English League Two,2414
+1386683,Fatih KaragÃ¼mrÃ¼k,Karagümrükspor,Turkish Turkcell Super Lig,1882
+1388743,SV Ried,Ried,Austrian T-Mobile Bundesliga,1827
+1389834,Hatayspor,Hatayspor,Turkish Turkcell Super Lig,1882
+1391894,WÃ¼rzburger Kickers,,German 2. Bundesliga,1846
+1393730,Harrogate Town,Harrogate Town,English League Two,2414
+1396398,Castellon,,Spanish Segunda Division,1871
+1399199,FC Cartagena,Cartagena,Spanish Segunda Division,1871
+1402000,Monza,Monza,Italy Serie A,1854
+1404660,Logrones,,Spanish Segunda Division,1871
+1407461,FC Vaduz,,Swiss Raiffeisen Super League,1879
+1408541,SC Farense,,Portuguese Liga,1864
+1410377,Reggiana,Reggiana,Italy Serie B,1856
+1412749,Reggina,Reggina,Italy Serie B,1856
+1415121,Vicenza,Vicenza,Italy Serie B,1856
+1417493,CD Sabadell,,Spanish Segunda Division,1871
+1420294,Dundalk,,UEFA Europa League,1820
+1421358,CSKA Sofia,,UEFA Europa League,1820
+1422422,Lech Poznan,,UEFA Europa League,1820
+1423486,Slovan Liberec,,UEFA Europa League,1820
+1424550,Sparta Prague,,UEFA Europa League,1820
+1425614,Omonia Nicosia,,UEFA Europa League,1820
+1426678,Macarthur FC,Macarthur FC,Australian A-League,1948
+1427446,Avispa Fukuoka,Avispa Fukuoka,Japanese J League,1947
+1428891,Tokushima Vortis,,Japanese J League,1947
+1430336,Racing Louisville FC,,NWSL Challenge Cup,9541
+1430419,Degerfors IF,Degerfors,Swedish Allsvenskan,1874
+1431859,Kansas City,Kansas City,NWSL Challenge Cup,9541
+1431942,Cuiaba,Cuiabá,Brasileiro SÃ©rie A,
+1431943,Juventude,Juventude,Brasileiro SÃ©rie A,
+1431944,Austin FC,Austin FC,Major League Soccer,1951
+1434449,Oakland Roots,Oakland Roots,United Soccer League,2160
+1436929,Sarmiento,Sarmiento,Argentina Primera Division,5641
+1438611,Platense,Platense,Argentina Primera Division,5641
+1440293,Hansa Rostock,Hansa Rostock,German 2. Bundesliga,1846
+1442129,SK Austria Klagenfurt,SK Austria,Austrian T-Mobile Bundesliga,1827
+1443220,FK Nizhny Novgorod,Nizhny Novgorod,Russian Premier Liga,1866
+1444655,Viborg,Viborg,Danish SAS-Ligaen,1837
+1445659,RFC Seraing,Seraing,Belgian Jupiler League,1832
+1447135,Union Saint Gilloise,Union SG,Belgian Jupiler League,1832
+1448611,FC Arouca,Arouca,Portuguese Liga,1864
+1450447,Hartlepool,Hartlepool,English League Two,2414
+1453115,Go Ahead Eagles,Go Ahead,Dutch Eredivisie,1849
+1454951,Vizela,Vizela,Portuguese Liga,1864
+1456787,Real Sociedad II,,Spanish Segunda Division,1871
+1459588,Altay,,Turkish Turkcell Super Lig,1882
+1461648,Cambuur Leeuwarden,Cambuur,Dutch Eredivisie,1849
+1463484,Adana Demirspor,Demirspor,Turkish Turkcell Super Lig,1882
+1465544,Giresunspor,Giresunspor,Turkish Turkcell Super Lig,1882
+1467604,NEC,NEC,Dutch Eredivisie,1849
+1469440,Sekhukhune United,Sekhukhune,South African ABSA Premier League,1983
+1470400,Moroka Swallows,Moroka Swallows,South African ABSA Premier League,1983
+1471360,UD Ibiza,Ibiza,Spanish Segunda Division,1871
+1474161,TS Galaxy,TS Galaxy,South African ABSA Premier League,1983
+1475121,Tshakhuma Tsha Madzivhandila,,South African ABSA Premier League,1983
+1476081,Sutton United,Sutton United,English League Two,2414
+1478749,Amorebieta,,Spanish Segunda Division,1871
+1481550,Burgos,Burgos,Spanish Segunda Division,1871
+1484351,Alessandria,Alessandria,Italy Serie B,1856
+1486723,Como,Como,Italy Serie B,1856
+1489095,Leicester City WFC,Leicester,FA Women's Super League,7921
+1489828,Maccabi Haifa,,UEFA Europa Conference League,10281
+1490081,Kairat Almaty,,UEFA Europa Conference League,10281
+1490334,Lincoln Red Imps,,UEFA Europa Conference League,10281
+1490587,Flora,,UEFA Europa Conference League,10281
+1490840,HJK Helsinki,,UEFA Europa Conference League,10281
+1491093,NS Mura,,UEFA Europa Conference League,10281
+1491346,Anorthosis Famagusta,,UEFA Europa Conference League,10281
+1491599,Ionikos FC,Ionikos,Greek Super League,1884
+1492501,Alashkert FC,,UEFA Europa Conference League,10281
+1492754,Kyoto Purple Sanga,Kyoto Purple Sanga,Japanese J League,1947
+1494199,Charlotte FC,Charlotte FC,Major League Soccer,1951
+1496704,Detroit City FC,Detroit City,United Soccer League,2160
+1499184,Angel City FC,Angel City,NWSL Challenge Cup,9541
+1499267,San Diego Wave FC,,NWSL Challenge Cup,9541
+1499350,Hamarkamaratene,HamKam,Norwegian Tippeligaen,1859
+1500790,FK Jerv,Jerv,Norwegian Tippeligaen,1859
+1502230,IFK VÃ¤rnamo,Värnamo,Swedish Allsvenskan,1874
+1503670,Monterey Bay,Monterey Bay,United Soccer League,2160
+1506150,Barracas Central,Barracas Central,Argentina Primera Division,5641
+1507832,Winterthur,Winterthur,Swiss Raiffeisen Super League,1879
+1508912,Torpedo Moskow,Torpedo Moskow,Russian Premier Liga,1866
+1510347,Austria Lustenau,Lustenau,Austrian T-Mobile Bundesliga,1827
+1511438,KVC Westerlo,Westerlo,Belgian Jupiler League,1832
+1512914,Fakel Voronezh,Fakel Voronezh,Russian Premier Liga,1866
+1514349,Stockport County,Stockport County,English League Two,2414
+1517017,Annecy,Annecy,French Ligue 2,1844
+1519297,Istanbulspor,?stanbulspor,Turkish Turkcell Super Lig,1882
+1521357,Royal AM,Royal AM,South African ABSA Premier League,1983
+1522317,Laval,Laval,French Ligue 2,1844
+1524597,Richards Bay,Richards Bay,South African ABSA Premier League,1983
+1525557,Casa Pia,Casa Pia,Portuguese Liga,1864
+1527393,FC Volendam,Volendam,Dutch Eredivisie,1849
+1529229,Umraniyespor,Ümraniyespor,Turkish Turkcell Super Lig,1882
+1531289,Modena,Modena,Italy Serie B,1856
+1533661,Villarreal B,Villarreal B,Spanish Segunda Division,1871
+1536462,Sudtirol,Südtirol,Italy Serie B,1856
+1538834,FC Andorra,Andorra,Spanish Segunda Division,1871
+1541635,SlovÃ¡cko,,UEFA Europa Conference League,10281
+1541888,Ballkani,,UEFA Europa Conference League,10281
+1542141,Shamrock Rovers,,UEFA Europa Conference League,10281
+1542394,SC Dnipro-1,,UEFA Europa Conference League,10281
+1542647,Pyunik Yerevan,,UEFA Europa Conference League,10281
+1542900,Zalgiris Vilnius,,UEFA Europa Conference League,10281
+1543153,Rigas Futbola Skola,,UEFA Europa Conference League,10281
+1543406,Nashville,Nashville,Major League Soccer,1951
+1545911,Angel City FC,Angel City,National Women's Soccer League,4582
+1546623,Racing Louisville FC,Racing Louisville,National Women's Soccer League,4582
+1547335,San Diego Wave FC,San Diego Wave,National Women's Soccer League,4582
+1548047,Terek Grozny,Akhmat Grozny,Russian Premier Liga,1866
+1549482,Rostov,Rostov,Russian Premier Liga,1866
+1550917,CSKA Moscow,CSKA Moscow,Russian Premier Liga,1866
+1552352,Cape Town City,Cape Town City,South African ABSA Premier League,1983
+1553312,Marumo Gallants,Marumo Gallants,South African ABSA Premier League,1983
+1554272,Basel,Basel,Swiss Raiffeisen Super League,1879
+1555352,Besiktas,Besiktas,Turkish Turkcell Super Lig,1882
+1557412,,,,
+1557431,Reading,Reading,English League Championship,2412
+1560768,Aston Villa,Aston Villa,FA Women's Super League,7921
+1561501,Anderlecht,Anderlecht,Belgian Jupiler League,1832
+1562977,Club Brugge,Club Brugge,Belgian Jupiler League,1832
+1564453,SV Zulte Waregem,Zulte Waregem,Belgian Jupiler League,1832
+1565929,FC Copenhagen,Copenhagen,Danish SAS-Ligaen,1837
+1566933,PSV,PSV,Dutch Eredivisie,1849
+1568769,AEK Athens,AEK Athens,Greek Super League,1884
+1569671,Olympiacos,Olympiacos,Greek Super League,1884
+1570573,FC Cincinnati,FC Cincinnati,Major League Soccer,1951
+1573078,Guadalajara,Guadalajara,Mexican Primera Division Torneo Apertura,1952
+1574110,Benfica,Benfica,Portuguese Liga,1864
+1575946,FC Porto,Porto,Portuguese Liga,1864
+1577782,Sporting CP,Sporting,Portuguese Liga,1864
+1579618,Celtic,Celtic,Scottish Premiership,2417
+1581880,Phoenix Rising,Phoenix Rising,United Soccer League,2160
